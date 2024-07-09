@@ -108,4 +108,4 @@ print_invalid:
 exit_program:
     # Exit
     li $v0, 10
-    syscall
+    
