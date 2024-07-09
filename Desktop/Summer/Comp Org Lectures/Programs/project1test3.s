@@ -105,7 +105,4 @@ print_invalid:
     la $a0, invalid_msg
     syscall
 
-exit_program:
-    # Exit
-    li $v0, 10
-    
+
